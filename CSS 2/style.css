@@ -4,9 +4,25 @@ font-family: "arial";
 font-size: 40px;
 line-height: 60px;
 padding: 70px;
+list-style-type: 'helvetica';
 }
 
 .wrapper{
 background-color: white;
 margin: 20px auto;
+}
+
+
+nav ul{
+list-style-type: none;
+
+}
+
+a{ color: purple;
+   background-color: blue;
+}
+
+
+
+header{ background-color: grey;
 }
