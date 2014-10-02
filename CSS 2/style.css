@@ -2,8 +2,11 @@ body {
 background-color: red;
 font-family: "arial";
 font-size: 40px;
+line-height: 60px;
+padding: 70px;
 }
 
-.#wrapper{
+.wrapper{
 background-color: white;
+margin: 20px auto;
 }
