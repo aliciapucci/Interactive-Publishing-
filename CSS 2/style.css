@@ -1,22 +1,27 @@
 body { 
-background-color: red;
+background-color: lightblue;
 font-family: "arial";
-font-size: 30px;
+font-size: 20px;
 line-height: 60px;
 padding: 70px;
-
 }
-
 
 
 .wrapper{
 background-color: white;
 margin: 20px auto;
+padding:40px;
+}
+
+code { 
+font-family: futura;
+color: green;
 }
 
 
 nav ul{
 list-style-type: none;
+padding: 0px
 
 }
 
@@ -32,6 +37,13 @@ margin-right: 20px;
 
 a{ color: purple;
    background-color: white;
+
+}
+
+a:hover {
+   color:black;
+   font-size: 45px;
+   font-family: futura;
 }
 
 li { 
@@ -43,4 +55,6 @@ Margin: 20px;
 header{ 
 background-color: grey;
 padding: 20px;
+font-size: 30px;
+
 }
