@@ -18,6 +18,10 @@ list-style-type: none;
 
 }
 
+nav li{ 
+display: inline;
+}
+
 a{ color: purple;
    background-color: blue;
 }
