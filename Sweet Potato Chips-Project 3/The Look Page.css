@@ -1,0 +1,62 @@
+body { 
+background-color: green;
+font-family: "quicksand";
+font-size: 20px;
+line-height: 60px;
+padding: 70px;
+}
+
+
+.wrapper{
+background-color: white;
+margin: 20px auto;
+padding:50px;
+
+}
+
+code { 
+font-family: futura;
+color: green;
+}
+
+
+nav ul{
+list-style-type: none;
+padding: 0px
+
+}
+
+nav li{ 
+display: inline-block;
+margin-bottom: 35px;
+}
+
+nav a{ 
+padding: 20px;
+margin-right: 20px;
+}
+
+a{ color: orange;
+   background-color: white;
+
+}
+
+a:hover {
+   color: black;
+   font-size: 45px;
+   font-family: quicksand;
+}
+
+li { 
+Margin: 20px;
+}
+
+
+
+header{ 
+background-color: white;
+padding: 20px;
+font-size: 30px; color: black;
+
+
+}
